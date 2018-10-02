@@ -1,2 +1,3 @@
-/*cascading style sheets*/
-/*CS selector*/
+.container .navbar{
+  background-color: lightgrey;
+}
